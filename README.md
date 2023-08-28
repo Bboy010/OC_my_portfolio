@@ -67,11 +67,12 @@
                     </div>
                 </div>
                 <label for="message" style ="{  margin-bottom: 10px;}">message</label>
-                <textarea name="message" id="message" rows="10" style ="{  padding: 15px;  border-radius: 3px;  border: none;}"></textarea>
+                <textarea name="message" id="message" rows="10" style ="padding: 15px;  border-radius: 3px;  border: none;"></textarea>
                 <input type="submit" value="ENVOYER" class="cta" style="input[type='submit'] {  width: 200px;  margin: auto;  margin-top: 30px;}">
             </form>
         </section>
     </main>
+    ---
     <footer style ="{  display: flex;  flex-direction: row;  align-items: center;  justify-content: space-between;}">
         <img src="images/logo.png" alt="Logo Hongo Koffi Anderson" >
         <div>
