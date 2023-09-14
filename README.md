@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" >
-    <title>Accueil - Blackboy illustration</title>
+    # Accueil - Blackboy illustration
     <link href="style/style.css" rel="stylesheet" >
     <link href="style/index.css" rel="stylesheet" >
     <link rel="preconnect" href="https://fonts.googleapis.com"> <!-- Insertion de police -->
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <label for="message" style ="{  margin-bottom: 10px;}">message</label>
-                <textarea name="message" id="message" rows="10" style ="padding: 15px;  border-radius: 3px;  border: none;"></textarea>
+<!--                 <textarea name="message" id="message" rows="10" style ="padding: 15px;  border-radius: 3px;  border: none;"></textarea> -->
                 <input type="submit" value="ENVOYER" class="cta" style="input[type='submit'] {  width: 200px;  margin: auto;  margin-top: 30px;}">
             </form>
         </section>
